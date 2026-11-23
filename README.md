@@ -23,4 +23,4 @@ Security: network intrusion detection, LLM security, log analysis
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/hridya-nair/) · hn2695@nyu.edu
+[LinkedIn](https://www.linkedin.com/in/hridya-nair/) · hridyanair12@gmail.com
