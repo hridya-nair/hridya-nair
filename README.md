@@ -21,6 +21,6 @@ ML/AI: PyTorch, scikit-learn, XGBoost/LightGBM, sentence-transformers, RAG, LLM 
 Backend/Infra: FastAPI, Flask, React, Docker, GitHub Actions, Redis
 Security: network intrusion detection, LLM security, log analysis
 
-Contact
+## Contact
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/hridya-nair/) · hn2695@nyu.edu
